@@ -81,6 +81,8 @@ O painel foi estruturado utilizando diferentes elementos visuais do **Power BI**
 ## 🛠 Tecnologias Utilizadas
 
 - **Power BI**
+- **Figma**
+- **Trello*
 - **Modelagem de dados**
 - **Visualização de dados**
 - **Análise estatística exploratória**
