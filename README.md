@@ -82,7 +82,7 @@ O painel foi estruturado utilizando diferentes elementos visuais do **Power BI**
 
 - **Power BI**
 - **Figma**
-- **Trello*
+- **Trello**
 - **Modelagem de dados**
 - **Visualização de dados**
 - **Análise estatística exploratória**
